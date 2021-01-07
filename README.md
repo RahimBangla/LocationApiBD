@@ -1,4 +1,5 @@
-`code`
+```bash
+
 https://rbsoft.tech/LocationApiBD/districts/districts.json
 https://rahimbangla.github.io/LocationApiBD/districts/districts.json
 
@@ -11,4 +12,4 @@ https://rahimbangla.github.io/LocationApiBD/unions/unions.json
 https://rbsoft.tech/LocationApiBD/upazilas/upazilas.json
 https://rahimbangla.github.io/LocationApiBD/upazilas/upazilas.json
 
-`code`
+```
