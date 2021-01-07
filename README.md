@@ -1,4 +1,4 @@
-```bash
+```link
 
 https://rbsoft.tech/LocationApiBD/districts/districts.json
 https://rahimbangla.github.io/LocationApiBD/districts/districts.json
